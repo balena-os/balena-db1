@@ -10,3 +10,16 @@
 	path = contracts
 	url = https://github.com/balena-io/contracts.git
 	branch = master
+
+[submodule "layers/meta-arm"]
+	path = layers/meta-arm
+	url = https://git.yoctoproject.org/meta-arm.git
+	branch = kirkstone
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "layers/poky"]
+	path = layers/poky
+	url = https://github.com/balena-os/poky.git
+	branch = kirkstone

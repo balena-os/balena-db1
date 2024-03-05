@@ -23,3 +23,7 @@
 	path = layers/poky
 	url = https://github.com/balena-os/poky.git
 	branch = kirkstone
+[submodule "layers/meta-db1"]
+	path = layers/meta-db1
+	url = https://github.com/bluechiptechnology/meta-db1.git
+	branch = main

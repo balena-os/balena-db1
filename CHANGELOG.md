@@ -1,6 +1,87 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.0.9+rev2
+## (2024-03-21)
+
+
+<details>
+<summary> Update contracts to 2de35264348458938cf5c85c28660a58a1e8066a [Self-hosted Renovate Bot] </summary>
+
+> ## contracts-2.0.97
+> ### (2024-03-21)
+> 
+> * hw.device-type: Add beagleplay device [delhiryder]
+> 
+> ## contracts-2.0.96
+> ### (2024-03-14)
+> 
+> * hw.device-type: Add beaglebone-play device [delhiryder]
+> 
+> ## contracts-2.0.95
+> ### (2024-02-26)
+> 
+> * sw.os+hw.device-type: Update Jetson Orin repositories [Alexandru Costache]
+> * jetson-orin-nx-seeed-j4012: Add ubuntu and debian distro tpl files [Alexandru Costache]
+> 
+> ## contracts-2.0.94
+> ### (2024-02-14)
+> 
+> * odyssey-x86: Update icon to latest revision [Alexandru Costache]
+> 
+> ## contracts-2.0.93
+> ### (2024-02-08)
+> 
+> * hw.device-type: Add Kontron i.MX8M Mini device [joris-bright]
+> 
+> ## contracts-2.0.92
+> ### (2024-02-01)
+> 
+> * hw.device-type: Add phyboard-lyra-am62xx-2 device [Atanas Bunchev]
+> 
+> ## contracts-2.0.91
+> ### (2024-02-01)
+> 
+> * Remove generic-amd64-fde device type [Michal Toman]
+> 
+> ## contracts-2.0.90
+> ### (2024-01-10)
+> 
+> * hw.device-type: Update svg icon for seeed-j4012 [Alexandru Costache]
+> 
+> ## contracts-2.0.89
+> ### (2024-01-05)
+> 
+> * hw.device-type: Fix hyperlinks in provisioning instructions [Alexandru Costache]
+> 
+> ## contracts-2.0.88
+> ### (2024-01-03)
+> 
+> * jetson-orin-nx-seeed-j4012: Add Seeed J4012 device-type [Alexandru Costache]
+> 
+> ## contracts-2.0.87
+> ### (2023-12-29)
+> 
+> * hw.device-type: Fix device type is_private flag for imx8mp-var-dart [Florin Sarbu]
+> 
+> ## contracts-2.0.86
+> ### (2023-12-28)
+> 
+> * hw.device-type: Add Variscite DART-MX8M-PLUS [Florin Sarbu]
+> 
+> ## contracts-2.0.85
+> ### (2023-12-21)
+> 
+> * patch: Remove wiki link reference to flash Tinker Board [Vipul Gupta (@vipulgupta2048)]
+> 
+> ## contracts-2.0.84
+> ### (2023-12-13)
+> 
+> * iot-gate-imx8plus: Update flashing instructions and name [Alexandru Costache]
+> 
+
+</details>
+
 # v5.0.9+rev1
 ## (2024-03-21)
 

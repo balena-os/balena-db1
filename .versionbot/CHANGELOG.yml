@@ -1,4 +1,40 @@
 - commits:
+    - subject: Update layers/meta-balena to 5618489132d1e31652f7e018da32bdd5b7492e64
+      hash: 852b37b84910d491e71bdb14ff034a615688ffa1
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 5618489132d1e31652f7e018da32bdd5b7492e64
+        changelog-entry: Update layers/meta-balena to 5618489132d1e31652f7e018da32bdd5b7492e64
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: "hostapp-update-hooks: check for logging helper"
+              hash: 8561f0f7d92702a0d374846555904d6f2e01c697
+              body: >
+                Older balenaOS version (before v2.58) do not contain the logging
+                helper
+
+                in the rootfs and the new OS hooks fail to execute.
+
+
+                This commit checks for the file existence before using it, and
+                defines
+
+                the logging functions when not detected.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alex Gonzalez <alexg@balena.io>
+                signed-off-by: Alex Gonzalez <alexg@balena.io>
+              author: Alex Gonzalez
+              nested: []
+          version: meta-balena-5.2.10
+          title: ""
+          date: 2024-04-23T10:14:54.964Z
+  version: 5.2.10
+  title: ""
+  date: 2024-04-23T10:49:27.271Z
+- commits:
     - subject: Update layers/poky to 31751bba1c789f15f574773a659b8017d7bcf440
       hash: 1011e78ce28f42f9913e9ce191ef4d8ed68cb138
       body: Update layers/poky

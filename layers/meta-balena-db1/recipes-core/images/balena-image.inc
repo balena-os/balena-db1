@@ -12,7 +12,7 @@ IMAGE_ROOTFS_MAXSIZE="800000"
 BALENA_BOOT_PARTITION_FILES:append = " \
     boot.scr:/boot.scr \
     db1_07c.dtb:/db1_07c.dtb \
-    u-boot-test-signed.mbn:/u-boot-test-signed.mbn \
+    bootfiles1/u-boot-test-signed.mbn:/u-boot-test-signed.mbn \
     ${KERNEL_IMAGETYPE}${KERNEL_INITRAMFS}-${MACHINE}.bin:/${KERNEL_IMAGETYPE}"
 
 check_size() {

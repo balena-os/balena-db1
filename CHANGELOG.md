@@ -1,6 +1,12 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.3.3+rev3
+## (2024-05-15)
+
+* Fix path to U-Boot binary [crichardson]
+* Fix installation of libqrtr [crichardson]
+
 # v5.3.3+rev2
 ## (2024-05-03)
 

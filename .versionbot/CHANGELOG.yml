@@ -1,4 +1,30 @@
 - commits:
+    - subject: Fix path to U-Boot binary
+      hash: 0f2c5cc70b2a0bb7101a08120a66dcac6d84b07e
+      body: |
+        Correct path to binary
+      footer:
+        Changelog-entry: Fix path to U-Boot binary
+        changelog-entry: Fix path to U-Boot binary
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+    - subject: Fix installation of libqrtr
+      hash: e5d8d82772689734d765df7b9a5f6eebe95aec54
+      body: |
+        Use symlinks for additional library filenames
+      footer:
+        Changelog-entry: Fix installation of libqrtr
+        changelog-entry: Fix installation of libqrtr
+        Signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+        signed-off-by: Chris Richardson <crichardson@bluechiptechnology.com>
+      author: crichardson
+      nested: []
+  version: 5.3.3+rev3
+  title: ""
+  date: 2024-05-15T10:31:04.866Z
+- commits:
     - subject: Update layers/poky to 2b21c6009aa6b955e1a0e7312c3c0ad66557681b
       hash: 5082d7b0494cda1ecf93aaa9f6469f160e235d73
       body: Update layers/poky

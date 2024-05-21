@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.3.6+rev1
+## (2024-05-21)
+
+* db1: Update boot partition index in coffee file [Alexandru]
+
 # v5.3.6
 ## (2024-05-20)
 

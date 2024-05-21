@@ -1,4 +1,22 @@
 - commits:
+    - subject: "db1: Update boot partition index in coffee file"
+      hash: 1abb26ce48f71bf7c53a59a58e1517837a070bc7
+      body: >
+        According to
+        https://github.com/bluechiptechnology/meta-db1/blob/537a8d0a23bd983d28d70876dcdbd0fa4611bec7/recipes-bsp/u-boot/files/partition_specification.txt,
+        the boot partition has index 7 for both the flasher and non-flasher
+        images.
+      footer:
+        Changelog-entry: "db1: Update boot partition index in coffee file"
+        changelog-entry: "db1: Update boot partition index in coffee file"
+        Signed-off-by: Alexandru Costache <alexandru@balena.io>
+        signed-off-by: Alexandru Costache <alexandru@balena.io>
+      author: Alexandru
+      nested: []
+  version: 5.3.6+rev1
+  title: ""
+  date: 2024-05-21T10:39:14.947Z
+- commits:
     - subject: Update layers/meta-balena to c7d68bb9a14aba972c692212dd41264f78527c38
       hash: d92c04df0e15391dc287e7ad8f36647fa84dd0b4
       body: Update layers/meta-balena

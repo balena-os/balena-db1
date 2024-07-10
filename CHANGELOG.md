@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v5.3.27+rev2
+## (2024-07-10)
+
+* Update layers/poky to be9285cbd9c959e1c712971b6dd753a971717c79 [Self-hosted Renovate Bot]
+
 # v5.3.27+rev1
 ## (2024-07-08)
 

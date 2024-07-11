@@ -1,4 +1,31 @@
 - commits:
+    - subject: Update layers/meta-balena to 4c376535a83f0b22b9757d835c4a7029cd758a77
+      hash: 1c72025fcdfdb371c20d55de0702a72d83c1e2f2
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 4c376535a83f0b22b9757d835c4a7029cd758a77
+        changelog-entry: Update layers/meta-balena to 4c376535a83f0b22b9757d835c4a7029cd758a77
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: Add GHA yocto workflows for common device types
+              hash: 261e54604908c6d55ae7ac0b8e7502c76663c58e
+              body: |
+                These workflows are for testing the build steps only.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Kyle Harding <kyle@balena.io>
+                signed-off-by: Kyle Harding <kyle@balena.io>
+              author: Kyle Harding
+              nested: []
+          version: meta-balena-5.3.28
+          title: ""
+          date: 2024-07-10T22:33:19.858Z
+  version: 5.3.28
+  title: ""
+  date: 2024-07-11T03:36:52.075Z
+- commits:
     - subject: Update layers/poky to be9285cbd9c959e1c712971b6dd753a971717c79
       hash: cb53d149685134fb56fc4518074faa1ff7f2003d
       body: Update layers/poky

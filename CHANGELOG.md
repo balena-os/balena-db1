@@ -1,6 +1,11 @@
 # v2.105.10
 ## (2022-10-13)
 
+# v6.0.0+rev1
+## (2024-07-19)
+
+* Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051 [Self-hosted Renovate Bot]
+
 # v6.0.0
 ## (2024-07-19)
 

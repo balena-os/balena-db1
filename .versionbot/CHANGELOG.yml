@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+      hash: d3d9ef6d87e646b4a3af1d8a2ff9c050a4387976
+      body: Update layers/meta-arm
+      footer:
+        Changelog-entry: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+        changelog-entry: Update layers/meta-arm to 260e3adc2bf322f52d81c0642c825088a88bb051
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 6.0.0+rev1
+  title: ""
+  date: 2024-07-19T05:08:33.532Z
+- commits:
     - subject: Update layers/meta-balena to 359a462dd4121c84f2cb0c17e93ac4c34fcc60cd
       hash: 5fd5e3b0272c940cdcef890dff5b7f37ab21fa31
       body: Update layers/meta-balena

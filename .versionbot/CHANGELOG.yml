@@ -1,4 +1,48 @@
 - commits:
+    - subject: Update layers/meta-balena to 124539560c0d8d4561d4695d11cd1dc75ca42163
+      hash: 8454b049ed929addb0e1b1b548a95346326dafc2
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 124539560c0d8d4561d4695d11cd1dc75ca42163
+        changelog-entry: Update layers/meta-balena to 124539560c0d8d4561d4695d11cd1dc75ca42163
+      author: Self-hosted Renovate Bot
+      nested:
+        - commits:
+            - subject: Update docker API version to match the v20.10 engine version
+              hash: b129f29043de773bf9f6b2259e30cd62487c3d41
+              body: >
+                Update the API version to the version set in the distro
+                configuration,
+
+                which must match the API version of the balena package.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alex Gonzalez <alexg@balena.io>
+                signed-off-by: Alex Gonzalez <alexg@balena.io>
+              author: Alex Gonzalez
+              nested: []
+            - subject: "conf: distro: set default docker API version"
+              hash: 39194a01acb4bfaf51f6d59a0a77b1988519620f
+              body: >
+                This is used to match the API version used in the build pipeline
+                with
+
+                the balena version used in the image.
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: Alex Gonzalez <alexg@balena.io>
+                signed-off-by: Alex Gonzalez <alexg@balena.io>
+              author: Alex Gonzalez
+              nested: []
+          version: meta-balena-6.0.3
+          title: ""
+          date: 2024-07-22T08:23:04.274Z
+  version: 6.0.3
+  title: ""
+  date: 2024-07-22T09:30:21.473Z
+- commits:
     - subject: Update layers/meta-openembedded to
         4052c97dc83d0c88fc277d6fc1815e0699020daa
       hash: ab8c4deb3b17c76ee856a49dbc122390d59e1f87

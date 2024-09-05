@@ -1,4 +1,29 @@
 - commits:
+    - subject: Update balena-yocto-scripts to 0f0b5cc033b03b5535c13082000225f179a60758
+      hash: 903f01718a4ae25c2ecc41e0e0cb6fbcb9748a16
+      body: Update balena-yocto-scripts
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to 0f0b5cc033b03b5535c13082000225f179a60758
+        changelog-entry: Update balena-yocto-scripts to 0f0b5cc033b03b5535c13082000225f179a60758
+      author: balena-renovate[bot]
+      nested:
+        - commits:
+            - subject: Update balena-os/leviathan digest to 5db2b5d
+              hash: 3ea0421883a4c50185c8fa4f66de9f4e74f12a0b
+              body: |
+                Update balena-os/leviathan
+              footer:
+                Change-type: patch
+                change-type: patch
+              author: balena-renovate[bot]
+              nested: []
+          version: balena-yocto-scripts-1.25.36
+          title: ""
+          date: 2024-09-05T16:03:09.417Z
+  version: 6.0.21+rev6
+  title: ""
+  date: 2024-09-05T18:33:36.684Z
+- commits:
     - subject: Update layers/poky to 0ae3b2bd492d32ba401a447f09679ebaf10ddad4
       hash: 2174d3f0e0e9a64bdbb6b8d18b8b7a50cc77c86d
       body: Update layers/poky

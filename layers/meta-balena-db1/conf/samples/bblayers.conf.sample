@@ -20,4 +20,5 @@ BBLAYERS ?= " \
     ${TOPDIR}/../layers/meta-arm/meta-arm-toolchain \
     ${TOPDIR}/../layers/meta-arm/meta-arm \
     ${TOPDIR}/../layers/meta-db1 \
+    ${TOPDIR}/../layers/meta-cyclonedx  \
     "
